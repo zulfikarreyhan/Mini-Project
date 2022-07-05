@@ -30,8 +30,10 @@ while True :
     elif pilihan_pemain == "batu" and pilihan_computer == "kertas":
         pemain_menang += 1
         print("Pemain menang !")
+    elif pilihan_pemain == pilihan_computer: #kalo seri
+        print("Seri !!!")
     else:
-        computer_menang += 1 #meambah poin ke komputer
+        computer_menang += 1 #menambah poin ke komputer
         print("Komputer menang !")
 
 print("Pemain berhasil menang "+ str(pemain_menang)+" kali") #menampilkan poin pemain
