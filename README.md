@@ -14,3 +14,7 @@ Masih menggunakan if else sederhana ditambah dengan while.
 Membuat permainan suit dengan menggunakan random.
 Memakai if elif else dan memakai while untuk perulangan
 Menggunakan list suit sebagai pilihan
+
+## Hari ketiga
+Membuat permainan petualang sederhana menggunakan if bersarang di python
+Membuat 4 peta, sehingga membuat banyak alur dan arah petualangan.
