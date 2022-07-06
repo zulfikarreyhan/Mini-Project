@@ -18,3 +18,8 @@ Menggunakan list suit sebagai pilihan
 ## Hari ketiga
 Membuat permainan petualang sederhana menggunakan if bersarang di python
 Membuat 4 peta, sehingga membuat banyak alur dan arah petualangan.
+
+## Hari Keempat
+Membuat program sederhana untuk menyimpan nama dan password
+Dengan menggunakan fungsi tambah dan melihat
+Beserta file untuk menyimpan nama dan password
